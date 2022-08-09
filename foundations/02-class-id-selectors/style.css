@@ -1,0 +1,20 @@
+.class-text {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class-big {
+    font-size: 24px;
+}
+
+#id-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
